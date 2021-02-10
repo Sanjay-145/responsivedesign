@@ -323,9 +323,9 @@ Publish the website in the given URL.
 ![output](./static/img/o5.png)
 
 ## PHONE SIZE
-![output](./static/img/S1.jpg)
-![output](./static/img/S2.jpg)
-![output](./static/img/S3.jpg)
+![output](./static/img/S1.png)
+![output](./static/img/S2.png)
+![output](./static/img/S3.png)
 
 ## VALIDATION REPORT
 ![output](./static/img/v1.png)
